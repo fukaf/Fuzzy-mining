@@ -4,7 +4,7 @@ fuzzy_mining.py: Contains basic implementation of some fuzzy mining algorithms.
 @input: A dataframe contiaing your data.
 @output: A fuzzy rule base extracted from the input.
 
-@author: Fanqing Xu
+@author: Fanqing Xu, supervised by Mohammad Reza Rajati
 @reference: 
     Main ref. [The WM Method Completed: A Flexible Fuzzy System Approach 
 to Data Mining, Wang, 2003]
