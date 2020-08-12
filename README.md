@@ -12,6 +12,6 @@ Extract fuzzy rules from data.
 
 ## Installation
 
-- Clone fuzzy-mining.py and `import fuzzy-mining as fm`
+- Clone fuzzy_mining.py and `import fuzzy_mining as fm`
 - Install scikit-fuzzy by running `$ pip install -U scikit-fuzzy` (See source 
 https://github.com/scikit-fuzzy/scikit-fuzzy)
